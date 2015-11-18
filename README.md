@@ -1,6 +1,6 @@
 ##xcesettings (DE)
 
-deutsche Übersetzung der Mod. xcesettings für die Communityversion **X:CE** des Spiels
+deutsche Übersetzung der Modification **xcesettings** für die Communityversion **X:CE** des Spiels
 
 ###Autoren:
-...
+PaulJay
